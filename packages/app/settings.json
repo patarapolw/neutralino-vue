@@ -1,0 +1,10 @@
+{
+  "appname" : "neutralino-vue",
+  "appport" : "0",
+  "mode" : "window",
+  "window" : {
+      "width" : "1024",
+      "height" : "768",
+      "fullscreen" : true
+  }
+}
