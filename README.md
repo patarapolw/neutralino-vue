@@ -11,4 +11,4 @@ This package shows how [Neutralino](https://github.com/neutralinojs/neutralinojs
 <script src="/neutralino.js"></script>
 ```
 
-- Check out the scripts in <https://github.com/patarapolw/neutralino-vue/packages/app>
+- Check out the scripts in <https://github.com/patarapolw/neutralino-vue/tree/master/packages/app>
