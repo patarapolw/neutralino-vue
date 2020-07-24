@@ -13,7 +13,7 @@
     "fs-extra": "^8.1.0",
     "open": "^7.0.2",
     "rimraf": "^3.0.2",
-    "unzipper": "^0.10.10"
+    "unzipper": "^0.10.11"
   },
   "devDependencies": {
     "@types/fs-extra": "^8.1.0",
